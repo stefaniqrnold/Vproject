@@ -1,0 +1,7 @@
+- castelo.png pre moldado
+- arena com parede invisinivel
+- animacoes 
+- armas
+- classes
+- trilha sonora
+- 
